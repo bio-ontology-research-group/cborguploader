@@ -15,7 +15,7 @@ cwltool==3.0.20200807132242
 decorator==4.4.2
 future==0.18.2
 google-api-python-client==1.6.7
-httplib2==0.18.1
+httplib2==0.19.0
 humanfriendly==9.1
 idna==2.10
 isodate==0.6.0
