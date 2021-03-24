@@ -46,7 +46,7 @@ PyYAML==5.3.1
 rdflib==4.2.2
 rdflib-jsonld==0.5.0
 requests==2.25.1
-rsa==4.0
+rsa==4.1
 ruamel.yaml==0.16.5
 ruamel.yaml.clib==0.2.2
 schema-salad==7.0.20200612160654
