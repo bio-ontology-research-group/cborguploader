@@ -58,5 +58,5 @@ sparqlslurper==0.4.1
 SPARQLWrapper==1.8.5
 typing-extensions==3.7.4.3
 uritemplate==3.0.1
-urllib3==1.26.2
+urllib3==1.26.5
 ws4py==0.5.1
