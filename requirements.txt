@@ -5,7 +5,7 @@ bagit==1.7.0
 biopython==1.78
 CacheControl==0.11.7
 cborguploader==1.0
-certifi==2020.12.5
+certifi==2022.12.7
 CFGraph==0.2.1
 chardet==4.0.0
 ciso8601==2.1.3
